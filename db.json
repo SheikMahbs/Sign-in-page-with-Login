@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Mohammed",
+      "email": "Mohammed@gmail.com",
+      "mobile": 9739313750,
+      "password": "Mohammed",
+      "id": 2
+    },
+    {
+      "name": "Mohammed",
+      "email": "Mohammed@gmail.com",
+      "mobile": 9739313750,
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "name": "Rehan",
+      "email": "Rehan@gmail.com",
+      "mobile": 123456,
+      "password": "Rehan",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

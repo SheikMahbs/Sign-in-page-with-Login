@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Mahaboob",
+      "email": "Mahaboob6070@gmail.com",
+      "mobile": "123456789",
+      "adress": "#45 street",
+      "services": "chai, cofee"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Mahaboob",
+      "email": "Mahaboob6070@gmail.com",
+      "mobile": 1234567789,
+      "password": "Sheikpasha",
+      "id": 1
+    },
+    {
+      "name": "Sheik",
+      "email": "Sheik123@gmail.com",
+      "mobile": 1234,
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "Mahaboob Pasha",
+      "email": "Sheik123@gmail.com",
+      "mobile": 12456788,
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "name": "Asif",
+      "email": "Asif@gmail.com",
+      "mobile": 123456789,
+      "password": "12345",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
